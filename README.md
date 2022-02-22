@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shokhrukhmirzo (Brian)
 - Love creating | Hacker/startup mind 😎 | Blockchain enthusiast
-(My public repositories are created a long time ago, so they might not showcase my current experience, private ones(mostly recent ones) belong to companies/organizations which don't allow me to disclose)
+**(My public repositories are created a long time ago, so they might not showcase my current experience, private ones(mostly recent ones) belong to companies/organizations which don't allow me to disclose)
 # Tech Stack 
 - Javascript (& TypeScript)
 - Python
