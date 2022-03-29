@@ -1,4 +1,4 @@
-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, I’m Shokhrukhmirzo (Brian)
+- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">    Hi, I’m Shokhrukhmirzo (Brian)
 - Love creating | Hacker/startup mind 😎 | Blockchain enthusiast
 
 <div>
