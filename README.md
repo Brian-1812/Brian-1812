@@ -10,6 +10,7 @@
 
 # Tech Stack 
 - Javascript (& TypeScript)
+- Solidity
 - Python
 ## Frontend
 - HTML/CSS/JS/Bootstrap
