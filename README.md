@@ -13,9 +13,11 @@
 - Solidity
 - Python
 ## Frontend
-- HTML/CSS/JS/Bootstrap
+- HTML/CSS/JS/Styled-Components
+- ThreeJS
 - React/React Native
 - Redux/Redux Saga/Redux Thunk
+- MobX
 ## Backend
 - NodeJS
 - ExpressJS
@@ -24,11 +26,8 @@
 - MongoDB
 - MySQL
 - Firebase
-- AWS (EC2/RDS/S3)
+## DevOps & CI/CD
+- Github Actions (CI & CD)
 - Nginx
-
-
-<!---
-bakhr0mkhan/bakhr0mkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- AWS (EC2/RDS/S3)
+- Appcenter (Microsoft Codepush)
