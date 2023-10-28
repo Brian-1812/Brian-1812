@@ -12,22 +12,27 @@
 - Javascript (& TypeScript)
 - Solidity
 - Python
+  
 ## Frontend
 - HTML/CSS/JS/Styled-Components
 - ThreeJS
 - React/React Native
 - Redux/Redux Saga/Redux Thunk
 - MobX
+  
 ## Backend
-- NodeJS
-- ExpressJS
+- NodeJS (+microservices)
+- ExpressJS / NestJS
 - Django
+  
 ## Database/Cloud & Hosting
 - MongoDB
 - MySQL
 - Firebase
+  
 ## DevOps & CI/CD
 - Github Actions (CI & CD)
 - Nginx
 - AWS (EC2/RDS/S3)
+- Docker / K8S
 - Appcenter (Microsoft Codepush)
