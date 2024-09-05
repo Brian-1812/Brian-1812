@@ -1,5 +1,5 @@
 - Hi, I’m Shokhrukhmirzo (Brian)
-- Love creating | Hacker/startup mind 😎 | Blockchain enthusiast
+- Love creating | Hacker/startup mind 😎 | Blockchain enthusiast | Fast Learner
 
 <div>
 <!--   <p><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Brian-1812&theme=radical&show_icons=true" alt="Brian's github stats" style="max-width:100%;"></p> -->
@@ -24,6 +24,8 @@
 - NodeJS (+microservices)
 - ExpressJS / NestJS
 - Django
+- Message Queues (BullMQ, RabbitMQ)
+- Kafka, gRPC
   
 ## Database/Cloud & Hosting
 - MongoDB
