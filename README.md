@@ -2,32 +2,33 @@
 - Love creating | Hacker/startup mind 😎 | Blockchain enthusiast | Fast Learner
 
 # Tech Stack 
-- Javascript (& TypeScript)
+- Javascript/TypeScript
 - Solidity
 - Python
-  
-## Frontend
-- HTML/CSS/JS/Styled-Components
-- ThreeJS
-- React/React Native
-- Redux/Redux Saga/Redux Thunk
-- MobX
-  
+
 ## Backend
-- NodeJS (+microservices)
-- ExpressJS / NestJS
-- Django
+- TypeScript/Python
+- NodeJS (ExpressJS / NestJS)
+- Django / FastAPI
 - Message Queues (BullMQ, RabbitMQ)
 - Kafka, gRPC
   
-## Database/Cloud & Hosting
-- MongoDB
-- MySQL
-- Firebase
+## Frontend
+- React/React Native/Next.JS
+- Redux/Redux Saga/Redux Thunk
+- MobX
+- ThreeJS
+  
+## Database
+- NoSQL (MongoDB)
+- SQL (MySQL / Postgres)
   
 ## DevOps & CI/CD
-- Github Actions (CI & CD)
-- Nginx
-- AWS (EC2/RDS/S3)
+- AWS (EC2/RDS/S3), Google Cloud
+- CI/CD (Github Actions)
 - Docker / K8S
-- Appcenter (Microsoft Codepush)
+- Nginx / Linux
+
+## Blockchain
+- Solidity
+- Web3.js, Ethers.js
