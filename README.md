@@ -1,4 +1,4 @@
-- Hi, I’m Shokhrukhmirzo (Brian)
+- Hi, I’m Shohruh (Brian)
 - Love creating | Hacker/startup mind 😎 | Blockchain enthusiast | Fast Learner
 
 # Tech Stack 
